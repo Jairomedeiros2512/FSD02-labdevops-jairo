@@ -9,9 +9,14 @@
 
 ## MBA FULL STACK DEVELOPER
 
-#### LAB. DevOps e Cloud computing
-#### Professora: Gabriela de Lima Dias
-#### Aluno: Jairo Medeiros Silva
+#### Aula LAB.
+    LAB. DevOps e Cloud computing
+
+#### Professora:
+    Gabriela de Lima Dias
+
+#### Aluno: 
+    Jairo Medeiros Silva
 
 ---
 ### Projeto DevOps e Cloud
