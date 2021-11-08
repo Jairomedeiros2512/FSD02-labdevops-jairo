@@ -48,3 +48,4 @@ jobs:
       name: GET URL Stage
       script:
         - curl https://fsd02-labdevops-jairo.herokuapp.com/ | grep Hello || travis_terminate 1;
+
